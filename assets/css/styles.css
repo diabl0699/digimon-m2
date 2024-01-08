@@ -1,0 +1,22 @@
+
+
+#cuerpotabla img {
+    width: 100px;
+
+}
+
+
+#cuerpotabla td, th {
+    vertical-align: middle;
+
+}
+
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bd-violet-bg);
+    --bs-tooltip-color: var(--bs-white);
+  }
+
+
+
+
+ 
